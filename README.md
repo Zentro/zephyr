@@ -1,13 +1,8 @@
-# anemone
+# zephyr
 
-Introducing "anemone," a minimalist [Zola](https://www.getzola.org) theme that prioritizes clean CSS and avoids heavy JavaScript. Enjoy a seamless user experience with lightning-fast load times. Let your content take center stage in a clutter-free, elegant design that enhances readability. Responsive and efficient, anemone brings focus to your ideas.
+zephyr, a soothing pastel [Zola](https://www.getzola.org) theme for the high-sprited! The Catppuccin palette offers a cozy and visually delightful theme for Zola. Designed for those who appreciate aesthetic harmony, zephyr brings the soothing blend of pastels and the minimalist design of [anemone](#) to your static site.
 
-You can browse the demo website [here](https://anemone.pages.dev/)
-I also use it on my own [website.](https://speyllsite.pages.dev/)
-
-Anemone is a versatile Zola theme that comes with both light and dark variants. You can easily switch between the light and dark themes to suit your preferences.
-
-![Anemone Light and Dark Theme](screenshot.png)
+Perfectly tailored for bloggers, developers, and creatives, this theme not only enhances readability with its gentle contrasts but also offers a tranquil visual experience. 
 
 ## Installation
 
